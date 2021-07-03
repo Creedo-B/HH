@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+ 
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="bikehike.co.uk" version="1.1" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <time>2010-02-23T15:49:24Z</time>
+    <bounds minlat="53.364940" minlon="-1.945650" maxlat="53.387860" maxlon="-1.901520" /> 
+  </metadata>
+
+
+  
+  <rte>
+    <name>MTBcourse</name>
+    <number>1</number>
+    <rtept lat="53.379110" lon="-1.944350">
+      <ele>197.37</ele>
+      <time>2010-02-23T15:49:24Z</time>
+      <name>pt0</name>
+    </rtept>
+    <rtept lat="53.379590" lon="-1.945330">
+      <ele>194.11</ele>
+      <time>2010-02-23T15:49:49Z</time>
+      <name>pt1</name>
+    </rtept>
+    <rtept lat="53.379280" lon="-1.945650">
+      <ele>193.36</ele>
+      <time>2010-02-23T15:50:01Z</time>
+      <name>pt2</name>
+    </rtept>
+    <rtept lat="53.378270" lon="-1.945040">
+      <ele>200.55</ele>
+      <time>2010-02-23T15:50:37Z</time>
+      <name>pt3</name>
+    </rtept>
+    <rtept lat="53.378090" lon="-1.944750">
+      <ele>202.34</ele>
+      <time>2010-02-23T15:50:45Z</time>
+      <name>pt4</name>
+    </rtept>
+    <rtept lat="53.377530" lon="-1.944520">
+      <ele>207.71</ele>
+      <time>2010-02-23T15:51:04Z</time>
+      <name>pt5</name>
+    </rtept>
+    <rtept lat="53.370220" lon="-1.933490">
+      <ele>305.14</ele>
+      <time>2010-02-23T15:56:32Z</time>
+      <name>pt6</name>
+    </rtept>
+    <rtept lat="53.369600" lon="-1.932140">
+      <ele>313.34</ele>
+      <time>2010-02-23T15:57:06Z</time>
+      <name>pt7</name>
+    </rtept>
+    <rtept lat="53.365010" lon="-1.926150">
+      <ele>350.03</ele>
+      <time>2010-02-23T16:00:21Z</time>
+      <name>pt8</name>
+    </rtept>
+    <rtept lat="53.364940" lon="-1.924500">
+      <ele>361.12</ele>
+      <time>2010-02-23T16:00:53Z</time>
+      <name>pt9</name>
+    </rtept>
+    <rtept lat="53.365320" lon="-1.923660">
+      <ele>361.44</ele>
+      <time>2010-02-23T16:01:14Z</time>
+      <name>pt10</name>
+    </rtept>
+    <rtept lat="53.365590" lon="-1.921630">
+      <ele>369.37</ele>
+      <time>2010-02-23T16:01:56Z</time>
+      <name>pt11</name>
+    </rtept>
+    <rtept lat="53.366030" lon="-1.921190">
+      <ele>364.27</ele>
+      <time>2010-02-23T16:02:13Z</time>
+      <name>pt12</name>
+    </rtept>
+    <rtept lat="53.369450" lon="-1.920980">
+      <ele>296.73</ele>
+      <time>2010-02-23T16:04:07Z</time>
+      <name>pt13</name>
+    </rtept>
+    <rtept lat="53.370980" lon="-1.921690">
+      <ele>283.21</ele>
+      <time>2010-02-23T16:05:00Z</time>
+      <name>pt14</name>
+    </rtept>
+    <rtept lat="53.371700" lon="-1.921200">
+      <ele>270.45</ele>
+      <time>2010-02-23T16:05:26Z</time>
+      <name>pt15</name>
+    </rtept>
+    <rtept lat="53.370640" lon="-1.919780">
+      <ele>260.13</ele>
+      <time>2010-02-23T16:06:11Z</time>
+      <name>pt16</name>
+    </rtept>
+    <rtept lat="53.369280" lon="-1.918540">
+      <ele>268.5</ele>
+      <time>2010-02-23T16:07:03Z</time>
+      <name>pt17</name>
+    </rtept>
+    <rtept lat="53.369500" lon="-1.916370">
+      <ele>285.97</ele>
+      <time>2010-02-23T16:07:47Z</time>
+      <name>pt18</name>
+    </rtept>
+    <rtept lat="53.370000" lon="-1.913110">
+      <ele>303.95</ele>
+      <time>2010-02-23T16:08:54Z</time>
+      <name>pt19</name>
+    </rtept>
+    <rtept lat="53.371200" lon="-1.908680">
+      <ele>353.5</ele>
+      <time>2010-02-23T16:10:31Z</time>
+      <name>pt20</name>
+    </rtept>
+    <rtept lat="53.371640" lon="-1.901520">
+      <ele>416.36</ele>
+      <time>2010-02-23T16:12:54Z</time>
+      <name>pt21</name>
+    </rtept>
+    <rtept lat="53.372990" lon="-1.902630">
+      <ele>418.96</ele>
+      <time>2010-02-23T16:13:44Z</time>
+      <name>pt22</name>
+    </rtept>
+    <rtept lat="53.374210" lon="-1.902360">
+      <ele>429.44</ele>
+      <time>2010-02-23T16:14:25Z</time>
+      <name>pt23</name>
+    </rtept>
+    <rtept lat="53.375920" lon="-1.903160">
+      <ele>431.93</ele>
+      <time>2010-02-23T16:15:24Z</time>
+      <name>pt24</name>
+    </rtept>
+    <rtept lat="53.376730" lon="-1.902500">
+      <ele>441.47</ele>
+      <time>2010-02-23T16:15:54Z</time>
+      <name>pt25</name>
+    </rtept>
+    <rtept lat="53.377350" lon="-1.901710">
+      <ele>443.84</ele>
+      <time>2010-02-23T16:16:20Z</time>
+      <name>pt26</name>
+    </rtept>
+    <rtept lat="53.381260" lon="-1.902810">
+      <ele>408.26</ele>
+      <time>2010-02-23T16:18:33Z</time>
+      <name>pt27</name>
+    </rtept>
+    <rtept lat="53.383360" lon="-1.909320">
+      <ele>382.53</ele>
+      <time>2010-02-23T16:21:00Z</time>
+      <name>pt28</name>
+    </rtept>
+    <rtept lat="53.384730" lon="-1.912960">
+      <ele>357.59</ele>
+      <time>2010-02-23T16:22:26Z</time>
+      <name>pt29</name>
+    </rtept>
+    <rtept lat="53.386920" lon="-1.914540">
+      <ele>326.06</ele>
+      <time>2010-02-23T16:23:45Z</time>
+      <name>pt30</name>
+    </rtept>
+    <rtept lat="53.387860" lon="-1.919740">
+      <ele>273.29</ele>
+      <time>2010-02-23T16:25:33Z</time>
+      <name>pt31</name>
+    </rtept>
+    <rtept lat="53.387640" lon="-1.921310">
+      <ele>264.26</ele>
+      <time>2010-02-23T16:26:06Z</time>
+      <name>pt32</name>
+    </rtept>
+    <rtept lat="53.386710" lon="-1.922740">
+      <ele>255.07</ele>
+      <time>2010-02-23T16:26:48Z</time>
+      <name>pt33</name>
+    </rtept>
+    <rtept lat="53.386340" lon="-1.923900">
+      <ele>253.38</ele>
+      <time>2010-02-23T16:27:14Z</time>
+      <name>pt34</name>
+    </rtept>
+    <rtept lat="53.385610" lon="-1.924390">
+      <ele>250.12</ele>
+      <time>2010-02-23T16:27:40Z</time>
+      <name>pt35</name>
+    </rtept>
+    <rtept lat="53.381980" lon="-1.925080">
+      <ele>236.29</ele>
+      <time>2010-02-23T16:29:42Z</time>
+      <name>pt36</name>
+    </rtept>
+    <rtept lat="53.379050" lon="-1.928370">
+      <ele>223.56</ele>
+      <time>2010-02-23T16:31:40Z</time>
+      <name>pt37</name>
+    </rtept>
+    <rtept lat="53.377580" lon="-1.932290">
+      <ele>226.32</ele>
+      <time>2010-02-23T16:33:12Z</time>
+      <name>pt38</name>
+    </rtept>
+    <rtept lat="53.377450" lon="-1.937990">
+      <ele>216.51</ele>
+      <time>2010-02-23T16:35:05Z</time>
+      <name>pt39</name>
+    </rtept>
+    <rtept lat="53.378400" lon="-1.940850">
+      <ele>212.88</ele>
+      <time>2010-02-23T16:36:10Z</time>
+      <name>pt40</name>
+    </rtept>
+    <rtept lat="53.378670" lon="-1.942330">
+      <ele>205.17</ele>
+      <time>2010-02-23T16:36:41Z</time>
+      <name>pt41</name>
+    </rtept>
+    <rtept lat="53.379780" lon="-1.944750">
+      <ele>196.16</ele>
+      <time>2010-02-23T16:37:42Z</time>
+      <name>pt42</name>
+    </rtept>
+    <rtept lat="53.379760" lon="-1.945430">
+      <ele>194.2</ele>
+      <time>2010-02-23T16:37:56Z</time>
+      <name>pt43</name>
+    </rtept>
+    <rtept lat="53.379610" lon="-1.945360">
+      <ele>194.1</ele>
+      <time>2010-02-23T16:38:01Z</time>
+      <name>pt44</name>
+    </rtept>
+    <rtept lat="53.379110" lon="-1.944330">
+      <ele>197.41</ele>
+      <time>2010-02-23T16:38:27Z</time>
+      <name>pt45</name>
+    </rtept>
+  </rte>
+</gpx>
