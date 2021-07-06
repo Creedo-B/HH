@@ -1,0 +1,210 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+body {
+    /* background-image: linear-gradient(to bottom right, rgba(0,156, 222, 0.6), rgba(0,156, 222, 0.4), rgba(0,156, 222, 0.5)); */
+    background-color: rgba(0, 156, 222, 0.6);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#section {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#bar {
+    background-color:rgb(0, 0, 0);
+    padding-bottom: 0.5vh;
+}
+
+
+img {
+    margin-left: 15vw;
+}
+
+h1, h2, h3, p, a {
+    text-decoration: none;
+    color: black;
+    text-decoration: none;
+} 
+
+h4 {
+    color:rgb(0, 171, 132);
+    text-decoration: none;
+    text-transform: uppercase;
+} 
+
+h1, h2, h3, h4, p {
+    padding-left: 15vw;
+    padding-right: 15vw;
+    margin-top: 10px;
+    margin-bottom: 15px;
+} 
+
+h4:hover, a:hover {
+    color: green;
+    cursor:pointer;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#menu {
+    text-align: right;
+    padding: 30px;
+}
+
+hr {
+    border: 8px solid rgb(0, 171, 132);
+}
+
+#blueHr {
+    border: 2px solid rgb(0, 152, 222);
+}
+
+/* #Line {
+    background-color:rgb(0, 0, 0);
+    padding-bottom: 0.5vh;
+} */
+
+#metBox {
+    text-align: center;
+    padding-bottom: 30px;
+    padding-left: 15vw;
+    padding-right: 15vw;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+#weatherWidget {
+    width: 699px;
+}
+
+.contact {
+    text-align: center;
+    padding-bottom: 30px;
+}
+footer {
+	padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+/* toggle divs on and off */
+
+/* #about {
+    display: none;
+} */
+
+
+
+
+/* Contact form */
+#contact {
+	padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+input[type=text], select, textarea {
+    width: 50%; 
+    padding: 12px;
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+}
+
+input[type=submit] {
+    background-color: rgb(0, 171, 132);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: green;
+}
+
+.container {
+    border-radius: 5px;
+    padding: 20px;
+    text-align: right;
+    margin-right: 30vw;
+}
+
+
+
+
+/* The switch - the box around the slider */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+  /* The slider */
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #2196F3;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+input:checked + .slider {
+    background-color: green;
+}
+
+input:focus + .slider {
+    box-shadow: 0 0 1px green;
+}
+
+input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
